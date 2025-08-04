@@ -1,0 +1,18 @@
+.btn-wrap {
+ position: relative;
+ max-width: 150px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin: 16px;
+ padding: 10px 24px;
+ background-color: #eee;
+ cursor: pointer;
+ border-radius: 10px;
+}
+.btn-wrap:hover {
+ background-color: #333;
+ color: #fff;
+}
+.btn {
+}
